@@ -1,0 +1,29 @@
+.env
+__pycache__/
+*.pyc
+venv/
+node_modules/
+dist/
+
+.env
+venv/
+__pycache__/
+node_modules/
+
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Environment variables
+.env
+backend/.env
+
+# Node
+frontend/node_modules/
+
+# Build files
+frontend/dist/
+
+# IDE
+.vscode/
