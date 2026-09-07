@@ -14,22 +14,22 @@ message is potentially dangerous.
 
 ## 🚀 Features
 
--   🔍 **Scam Message Detection** --- Classifies messages as scam or
+-   🔍 **Scam Message Detection** - Classifies messages as scam or
     legitimate using a trained Machine Learning model.
--   📊 **Risk Score** --- Generates a risk score using the model's scam
+-   📊 **Risk Score** - Generates a risk score using the model's scam
     probability and detected red flags.
--   🚨 **Red Flag Detection** --- Identifies suspicious patterns such as
+-   🚨 **Red Flag Detection** - Identifies suspicious patterns such as
     urgency, threats, requests for sensitive information, and suspicious
     offers.
--   🏷️ **Scam Category Detection** --- Identifies the possible category
+-   🏷️ **Scam Category Detection** - Identifies the possible category
     of a suspicious message.
--   💡 **Safety Recommendation** --- Provides an actionable
+-   💡 **Safety Recommendation** - Provides an actionable
     recommendation based on the detected risk level.
--   🖼️ **OCR-Based Message Extraction** --- Extracts text from uploaded
+-   🖼️ **OCR-Based Message Extraction** - Extracts text from uploaded
     screenshots/images using Tesseract OCR.
--   📜 **Analysis History** --- Stores recent analysis results in
+-   📜 **Analysis History** - Stores recent analysis results in
     MongoDB and retrieves them through the API.
--   🌐 **Web Interface** --- Provides a simple interface for submitting
+-   🌐 **Web Interface** - Provides a simple interface for submitting
     messages and viewing analysis results.
 
 ------------------------------------------------------------------------
